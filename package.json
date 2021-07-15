@@ -1,9 +1,9 @@
 {
-  "name": "yub",
-  "version": "0.11.1",
-  "description": "Yubico Yubikey API Client for Node.js",
+  "name": "yub-proxy",
+  "version": "0.1",
+  "description": "Yubico Yubikey API Client via Proxy for Node.js",
   "main": "index.js",
-  "repository": "https://github.com/glynnbird/yub.git",
+  "repository": "https://github.com/mkerle/yub.git",
   "keywords": [
     "Yubikey",
     "Yubico",
@@ -11,7 +11,7 @@
     "authentication",
     "security"
   ],
-  "author": "Glynn Bird",
+  "author": "Mitch Kerle",
   "license": "Apache-2.0",
   "scripts": {
     "test": "mocha",
