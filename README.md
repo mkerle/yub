@@ -1,6 +1,6 @@
 # YUB
 
-[![NPM](https://nodei.co/npm/yub.png)](https://nodei.co/npm/yub-proxy/)
+[![NPM](https://nodei.co/npm/yub-proxy.png)](https://nodei.co/npm/yub-proxy/)
 
 ## Introduction
 
