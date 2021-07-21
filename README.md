@@ -1,6 +1,6 @@
-# YUB
+# YUB-PROXY
 
-[![NPM](https://nodei.co/npm/yub-proxy.png)](https://nodei.co/npm/yub-proxy/)
+
 
 ## Introduction
 
@@ -8,11 +8,10 @@ This project is based heavily on Yub by Glyn Bird [Yub](https://github.com/glynn
 
 ## Installation
 
-yub-proxy is published as an NPM module:
+Currently yub-proxy not available on npm.  Use local install method instead.
 
-```
-  npm install yub-proxy
-```
+git clone https://github.com/mkerle/yub-proxy
+npm install -save /PATH_TO_GIT_CLONE/yub-proxy
 
 You'll also need a Yubico API Key from here: [https://upgrade.yubico.com/getapikey/]([https://upgrade.yubico.com/getapikey/). This gives you the
 client_id and secret_key that must be passed to "yub.init()", see below.
