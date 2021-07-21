@@ -11,6 +11,7 @@ This project is based heavily on Yub by Glyn Bird [Yub](https://github.com/glynn
 Currently yub-proxy not available on npm.  Use local install method instead.
 
 git clone https://github.com/mkerle/yub-proxy
+
 npm install -save /PATH_TO_GIT_CLONE/yub-proxy
 
 You'll also need a Yubico API Key from here: [https://upgrade.yubico.com/getapikey/]([https://upgrade.yubico.com/getapikey/). This gives you the
